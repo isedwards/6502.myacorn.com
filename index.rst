@@ -1,12 +1,7 @@
+Welcome to **6502**, Ian Edwards' website and blog
+================================================
 
-.. isEdwards() index file, created by `ablog start` on Sun Oct 11 09:26:18 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Ian Edwards's Blog!
-=======================================
-
-Hello World! Find more about me here: :ref:`about`
+Find more about me here: :ref:`about`
 
 
 Here is a list of most recent posts:

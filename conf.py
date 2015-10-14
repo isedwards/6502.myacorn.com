@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# isEdwards() build configuration file, created by
+# 6502 build configuration file, created by
 # `ablog start` on Sun Oct 11 09:26:18 2015.
 #
 # Note that not all possible configuration values are present in this file.
@@ -18,7 +18,7 @@ import alabaster
 #blog_path = 'blog'
 
 # The “title” for the blog, used in acthive pages.  Default is ``'Blog'``.
-blog_title = u'isEdwards() Blog'
+blog_title = u'6502'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -179,7 +179,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'isEdwards()'
+project = u'6502'
 copyright = u'2015, Ian Edwards'
 author = u'Ian Edwards'
 
@@ -335,6 +335,6 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'isEdwardsdoc'
+htmlhelp_basename = '6502doc'
 
 github_pages = 'isedwards'
